@@ -1,0 +1,14 @@
+<linker>
+  <assembly fullname="FSharpStudentManagement">
+    <resource name="FSharpSignatureData.FSharpStudentManagement" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.FSharpStudentManagement" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.FSharpStudentManagement" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.FSharpStudentManagement" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.FSharpStudentManagement" action="remove"></resource>
+    <resource name="FSharpOptimizationData.FSharpStudentManagement" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.FSharpStudentManagement" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.FSharpStudentManagement" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.FSharpStudentManagement" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.FSharpStudentManagement" action="remove"></resource>
+  </assembly>
+</linker>
